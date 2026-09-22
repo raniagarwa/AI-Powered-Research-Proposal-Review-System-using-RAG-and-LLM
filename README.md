@@ -1,1 +1,0 @@
-# AI-Powered-Research-Proposal-Review-System-using-RAG-and-LLM
